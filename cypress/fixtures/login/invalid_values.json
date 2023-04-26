@@ -1,0 +1,22 @@
+[
+  {
+    "user": "",
+    "password": "Password1",
+    "title": "Empty user"
+  },
+  {
+    "user": "ernestosinibaldi@gmail.com",
+    "password": "",
+    "title": "Empty password"
+  },
+  {
+    "user": "dummyValue",
+    "password": "Password1",
+    "title": "Wrong user"
+  },
+  {
+    "user": "ernestosinibaldi@gmail.com",
+    "password": "dummyValue",
+    "title": "Wrong password"
+  }
+]
